@@ -14,11 +14,13 @@ rm(list = ls())
 #import functions
 source("./scripts/functions.r")
 
+library(data.table)
+
 #--------------------------------------------------------------------------------------------------
 # import data
 #--------------------------------------------------------------------------------------------------
 library(MASS)
-library(data.table)
+
 data(Boston)
 dt_data <- data.table(Boston)
 
