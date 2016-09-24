@@ -1,6 +1,6 @@
 # modelBenchmarking
 
-This repository contains the program *modelBenchmarking.R* which allows for the comparison of performance of several supervised models and a data set with predetermined target variable and explanatory variables. See [./documentation/documentation.pdf][doc] for more information.
+This repository contains the program *modelBenchmarking.R* which allows for the comparison of performance of several supervised models on a data set with predetermined target explanatory variables. See [./documentation/documentation.pdf][doc] for more information.
 
 
 ## Main Files
@@ -16,7 +16,7 @@ This repository contains the program *modelBenchmarking.R* which allows for the 
 
 ## Usage
 
-Open ./modelBenchmarking.RProj, then open ./scripts/makeModelBenchmarking.R within the R Project. Run or source ./scripts/makeModelBenchmarking.R. Optionally, we can modify the data set and parameters used chanching the following code.
+Open ./modelBenchmarking.RProj, then open ./scripts/makeModelBenchmarking.R within the R Project. Run or source ./scripts/makeModelBenchmarking.R. Optionally, we can modify the data set and parameters used changing the following code.
 
 ```r
 #-----------------------------------------
