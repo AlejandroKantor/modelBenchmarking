@@ -9,9 +9,9 @@ This repository contains the program *modelBenchmarking.R* which allows for the 
 |:-------|:------|
 | [./modelBenchmarking.RProj][proj]   |    R project file  |
 | [./scripts/makeModelBenchmarking.R][makeR]   |  Main script |
-| [./scripts/scripts.R][makeR]    | Functions called by main script |
+| [./scripts/functions.R][makeR]    | Functions called by main script |
 | [./documentation/documentation.pdf][doc]    |     Documentation |
-| [./documentation/documentation.tex][doc]    |     Latex document of documentation |
+| [./documentation/documentation.tex][doc]    |     Latex file of documentation |
 
 
 ## Usage
