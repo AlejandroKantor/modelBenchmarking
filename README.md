@@ -1,6 +1,6 @@
 # modelBenchmarking
 
-This repository contains the program *modelBenchmarking.R* which allows for the comparison of performance of several supervised models on a data set with predetermined target explanatory variables. See [./documentation/documentation.pdf][doc] for more information.
+This repository contains the program *modelBenchmarking.R* which allows for the comparison of performance of several supervised models on a data set with predetermined target and explanatory variables. See [./documentation/documentation.pdf][doc] for more information.
 
 
 ## Main Files
